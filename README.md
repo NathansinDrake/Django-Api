@@ -69,7 +69,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
    - Para entrar al servidor y ver la documentación debes ir al navegador y entrar a la siguiente dirección: [http://localhost:8000/docs/](http://localhost:8000/docs/)
 
-- Para agregar una nueva tarea solo tiene que undir en el botón crear tarea
+   - Para agregar una nueva tarea solo tiene que undir en el botón crear tarea
 
 
 ![image](https://github.com/user-attachments/assets/6af4222a-b50d-41b8-9e36-645bb4a45d25)
