@@ -1,3 +1,5 @@
+### APLICACIÓN DE TAREAS BÁSICAS
+
 Este proyecto consiste en dos partes principales: un backend con Django y un cliente con React.
 
 ## Backend - Djangorestframework
@@ -27,9 +29,36 @@ Este es el backend del proyecto, construido con Django y djangoFramework. Propor
 
 - Siguiendo estos pasos sólo quedaría clonar el cliente, construido con Vite usando React. Consume la API proporcionada por el backend.
 
+## Frontend - Client-React
+
   ### Requisitos
 
-- Node.js v20.17.0
+- Node.js (v16 o superior recomendado)
 - npm o yarn  
 
-  
+  ### Instalación
+
+Sigue estos pasos para configurar el proyecto en tu entorno local:
+
+  1) Clona el Repositorio:
+
+   Clona el repositorio a tu máquina local:
+    git clone [https://github.com/NathansinDrake/Cliente-de-Tareas.git](https://github.com/NathansinDrake/Cliente-de-Tareas.git)
+
+  2) Navega al Directorio del Proyecto:
+      Entra en el Directorio usando por ejemplo: cd client  o cd cliente
+
+  3) Instala las Dependencias:
+      Usa npm o yarn para instalar las dependencias del proyecto por ejemplo:
+        npm install
+        yarn install
+
+   4) Ejecutar el cliente:
+      Usando estos comandos de ejemplo la aplicación deberia estar lista para su lanzamiento
+       npm run dev
+       yarn run dev
+
+- Esto generará los archivos de construcción optimizados en el directorio dist. Y con eso podrias ver algo como esto
+
+
+ ![image](https://github.com/user-attachments/assets/6af4222a-b50d-41b8-9e36-645bb4a45d25)
